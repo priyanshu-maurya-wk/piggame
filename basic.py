@@ -23,3 +23,4 @@ while True:
         print("Enter something valid")
 
 print(f"Final score: {score}")
+print("Game Over")
