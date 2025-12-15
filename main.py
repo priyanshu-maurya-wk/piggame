@@ -53,5 +53,6 @@ while max(player_score) <= max_score:
 max_score = max(player_score)
 winning_index = player_score.index(max_score)
 print("Player number", winning_index + 1, "is the winner with score of", max_score)
-print("Game Over")
-print("Thanks for playing!")
+print("Game Over dfjd")
+
+print("the hell with this") 
